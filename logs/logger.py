@@ -4,6 +4,7 @@ import logging
 import os
 from datetime import datetime
 from config.config import LOG_DIRECTORY, LOG_LEVEL
+import pandas as pd
 
 def setup_logger() -> logging.Logger:
     """
