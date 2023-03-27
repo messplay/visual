@@ -1,44 +1,8 @@
-2023-03-27 13:10:01,898 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:04,405 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:06,912 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:09,328 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:12,078 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:14,414 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:16,742 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:10:19,075 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:12:57,179 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:13:00,057 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:13:03,248 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:31:17,751 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:31:20,178 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:31:22,820 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:35,229 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:37,700 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:40,260 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:42,758 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:45,614 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:48,402 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:37:50,763 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:43:50,838 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:43:53,670 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:43:56,206 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
-2023-03-27 13:49:49,294 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:50,502 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:51,504 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:52,616 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:53,552 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:54,442 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:55,328 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:56,310 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:57,194 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:58,446 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:49:59,681 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:50:00,669 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:50:01,920 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:50:02,897 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:50:04,227 ERROR [stock_monitor] Error en la ejecución del script: Length of values (321) does not match length of index (1)
-2023-03-27 13:50:05,164 ERROR [stock_monitor] Error en la ejecución del script: Length of values (320) does not match length of index (1)
-2023-03-27 13:50:06,159 ERROR [stock_monitor] Error en la ejecución del script: Length of values (321) does not match length of index (1)
-2023-03-27 13:50:07,093 ERROR [stock_monitor] Error en la ejecución del script: Length of values (321) does not match length of index (1)
-2023-03-27 13:50:08,064 ERROR [stock_monitor] Error en la ejecución del script: Length of values (321) does not match length of index (1)
-2023-03-27 13:50:09,077 ERROR [stock_monitor] Error en la ejecución del script: Length of values (321) does not match length of index (1)
+
+2023-03-27 13:56:35,119 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:36,127 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:37,021 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:37,982 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:39,112 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:40,003 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 13:56:40,884 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
