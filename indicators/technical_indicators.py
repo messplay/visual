@@ -16,11 +16,15 @@ def calculate_technical_indicators(stock_data: Dict[str, pd.DataFrame]) -> Dict[
         # Eliminar filas con valores NaN
         cleaned_data = dropna(data)
 
+        # Imprimir los datos limpios para verificar
+        print(f"Datos limpios para {symbol}:")
+        print(cleaned_data)
+
         # Calcular todos los indicadores técnicos disponibles
         try:
             # Asegurarse de que los datos de entrada tengan al menos 200 filas antes de calcular los indicadores técnicos
             if len(cleaned_data) >= 200:
-                data_with_indicators = add_all_ta_features(cleaned_data, open="Open", high="High", low="Low", close="adj Close", volume="Volume")
+                data_with_indicators = add_all_ta_features(cleaned_data, open="Open", high="High", low="Low", close="close", volume="Volume")
                 stock_data_with_indicators[symbol] = data_with_indicators
             else:
                 print(f"No se pudieron calcular los indicadores técnicos para {symbol}. No hay suficientes datos.")

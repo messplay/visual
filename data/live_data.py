@@ -19,6 +19,8 @@ def fetch_live_data(stock_symbols: List[str]) -> Dict[str, pd.DataFrame]:
 
         if stock_info:
             stock_data = pd.DataFrame([stock_info])
+            stock_history = stock.history(period='1d', interval='1m')
+            stock_data['Close'] = stock_history['Close'].values
             live_data[symbol] = stock_data
         else:
             print(f"No se pudo obtener datos en tiempo real para {symbol}.")
