@@ -4,7 +4,7 @@
 STOCKS_TO_MONITOR = ["AAPL", "AMZN"]
 
 # Intervalo de tiempo en segundos entre cada comprobación de las condiciones de entrada y salida
-INTERVAL = 60
+INTERVAL = 180
 
 # Porcentaje de beneficio objetivo para cerrar una posición
 PROFIT_PERCENTAGE = 2

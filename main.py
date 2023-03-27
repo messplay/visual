@@ -7,6 +7,7 @@ from strategies.exit_strategies import detect_exit_signals, profit_loss_percenta
 from alerts.email_alerts import send_email_alert
 from logs.logger import logger
 from config.config import STOCKS_TO_MONITOR, INTERVAL, PROFIT_PERCENTAGE, LOSS_PERCENTAGE
+import pandas as pd
 
 if __name__ == "__main__":
     open_positions = {}

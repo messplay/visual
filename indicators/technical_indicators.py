@@ -18,9 +18,13 @@ def calculate_technical_indicators(stock_data: Dict[str, pd.DataFrame]) -> Dict[
 
         # Calcular todos los indicadores técnicos disponibles
         try:
-            data_with_indicators = add_all_ta_features(cleaned_data, open="Open", high="High", low="Low", close="Close", volume="Volume")
-            stock_data_with_indicators[symbol] = data_with_indicators
+            # Asegurarse de que los datos de entrada tengan al menos 200 filas antes de calcular los indicadores técnicos
+            if len(cleaned_data) >= 200:
+                data_with_indicators = add_all_ta_features(cleaned_data, open="Open", high="High", low="Low", close="adj Close", volume="Volume")
+                stock_data_with_indicators[symbol] = data_with_indicators
+            else:
+                print(f"No se pudieron calcular los indicadores técnicos para {symbol}. No hay suficientes datos.")
         except Exception as e:
-            print(f"No se pudo calcular indicadores técnicos para {symbol}. Error: {str(e)}")
+            print(f"No se pudieron calcular los indicadores técnicos para {symbol}. Error: {str(e)}")
 
     return stock_data_with_indicators
