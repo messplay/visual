@@ -6,3 +6,119 @@
 2023-03-27 13:56:39,112 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
 2023-03-27 13:56:40,003 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
 2023-03-27 13:56:40,884 ERROR [stock_monitor] Error en la ejecución del script: Length of values (327) does not match length of index (1)
+2023-03-27 14:03:27,027 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:03:30,646 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:03:34,071 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:03:37,172 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:04:50,369 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:04:53,947 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:06:54,998 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:06:58,521 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:07:02,142 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:07:05,722 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:41,820 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:45,267 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:48,780 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:52,571 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:56,350 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:14:59,574 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:03,047 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:06,827 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:10,599 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:14,352 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:17,870 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:21,127 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:24,433 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:27,736 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:31,063 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:34,433 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:37,846 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:41,511 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:44,808 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:48,118 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:51,904 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:55,488 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:15:59,115 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:17:24,797 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:25,459 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:26,101 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:26,656 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:27,231 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:28,157 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:29,287 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:29,748 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:30,296 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:30,843 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:31,397 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:32,184 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:32,807 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:33,386 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:33,949 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:34,487 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:34,940 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:35,498 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:35,933 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:36,459 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:36,972 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:37,519 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:37,953 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:38,516 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:39,034 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:39,472 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:40,006 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:40,785 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:41,303 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:41,827 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:42,274 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:17:42,839 ERROR [stock_monitor] Error en la ejecución del script: name 'datetime' is not defined
+2023-03-27 14:18:24,680 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:18:27,694 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:18:30,551 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:18:33,618 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:18:36,423 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:18:39,486 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:07,465 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:10,184 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:12,802 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:15,524 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:18,418 ERROR [stock_monitor] Error en la ejecución del script: 'AAPL'
+2023-03-27 14:21:46,660 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:21:51,301 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:21:55,551 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:22:00,083 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:22:04,413 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:22:08,480 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:17,944 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:22,896 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:27,159 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:31,701 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:35,999 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:40,365 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:44,749 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:56:48,984 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:10,950 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:15,415 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:19,662 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:24,005 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:28,504 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:32,740 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:37,358 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:41,643 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:46,346 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:50,973 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:54,805 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:57:59,080 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:03,920 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:07,955 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:11,877 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:16,180 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:20,453 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:24,549 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:28,749 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:33,234 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:37,465 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:41,582 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:46,162 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:50,428 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:54,880 ERROR [stock_monitor] Error en la ejecución del script: 'Close'
+2023-03-27 14:58:59,209 ERROR [stock_monitor] Error en la ejecución del script: 'Close'

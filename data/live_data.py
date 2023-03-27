@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 from typing import List, Dict
 from config import STOCKS_TO_MONITOR
-
+import datetime
 
 def fetch_live_data(stock_symbols: List[str]) -> Dict[str, pd.DataFrame]:
     """
@@ -19,8 +19,11 @@ def fetch_live_data(stock_symbols: List[str]) -> Dict[str, pd.DataFrame]:
 
         if stock_info:
             stock_data = pd.DataFrame([stock_info])
-            stock_history = stock.history(period='1d', interval='1m')
+            end_date = datetime.datetime.today().strftime('%Y-%m-%d')
+            start_date = (datetime.datetime.today() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
+            stock_history = stock.history(start='2023-03-20', end='2023-03-24', interval='1m')
             if not stock_history.empty:
+                stock_data = stock_data.reindex(stock_history.index)
                 stock_data['Close'] = stock_history['Close'].values
                 live_data[symbol] = stock_data
             else:
