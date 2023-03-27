@@ -32,9 +32,9 @@ MACD_SIGNAL_PERIOD = 9
 
 # Configuración del correo electrónico para las alertas
 EMAIL_CONFIG = {
-    "email_sender": "messplay@gmail.com",
-    "email_password": "Golfo_2040",
-    "email_receiver": "messplay@gmail.com",
+    "email_sender": "*****@gmail.com",
+    "email_password": "*****",
+    "email_receiver": "******@gmail.com",
     "smtp_server": "smtp.example.com",
     "smtp_port": 587,
 }
