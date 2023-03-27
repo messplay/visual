@@ -18,12 +18,19 @@ def fetch_live_data(stock_symbols: List[str]) -> Dict[str, pd.DataFrame]:
         stock_info = stock.info
 
         if stock_info:
-            stock_data = pd.DataFrame([stock_info])
-            stock_history = stock.history(period='7d', interval='5m')
+            stock_history = stock.history(period='30d', interval='1d')
             if not stock_history.empty:
-                stock_data = stock_data.reindex(stock_history.index)
-                stock_data['Close'] = stock_history['Close'].values
-                live_data[symbol] = stock_data
+                # Agregar datos en tiempo real al final del DataFrame
+                stock_history.loc[pd.Timestamp.now().tz_localize('UTC')] = [
+                    stock_info['regularMarketOpen'],
+                    stock_info['regularMarketDayHigh'],
+                    stock_info['regularMarketDayLow'],
+                    stock_info['regularMarketPrice'],
+                    stock_info['regularMarketVolume'],
+                    0,
+                    0
+                ]
+                live_data[symbol] = stock_history
             else:
                 print(f"No se pudo obtener datos históricos para {symbol}.")
         else:
