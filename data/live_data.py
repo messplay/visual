@@ -19,9 +19,7 @@ def fetch_live_data(stock_symbols: List[str]) -> Dict[str, pd.DataFrame]:
 
         if stock_info:
             stock_data = pd.DataFrame([stock_info])
-            end_date = datetime.datetime.today().strftime('%Y-%m-%d')
-            start_date = (datetime.datetime.today() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
-            stock_history = stock.history(start='2023-03-20', end='2023-03-24', interval='1m')
+            stock_history = stock.history(period='7d', interval='5m')
             if not stock_history.empty:
                 stock_data = stock_data.reindex(stock_history.index)
                 stock_data['Close'] = stock_history['Close'].values
